@@ -1,0 +1,15 @@
+{"at": 1, "type": "product_added", "product_id": 1, "name": "product 1"}
+{"at": 2, "type": "product_added", "product_id": 2, "name": "product 2"}
+{"at": 3, "type": "product_renamed", "product_id": 1, "name": "renamed product 1"}
+{"at": 4, "type": "product_renamed", "product_id": 1, "name": "renamed again product 1"}
+{"at": 5, "type": "category_added", "category_id": 1, "name": "category 1"}
+{"at": 6, "type": "category_added", "category_id": 2, "name": "category 2"}
+{"at": 6, "type": "category_added", "category_id": 3, "name": "category 3"}
+{"at": 7, "type": "product_in_category", "product_id": 1, "category_id": 2}
+{"at": 8, "type": "product_in_category", "product_id": 2, "category_id": 2}
+{"at": 8, "type": "product_in_category", "product_id": 2, "category_id": 3}
+{"at": 9, "type": "product_added", "product_id": 3, "name": "product 3"}
+{"at": 10, "type": "product_in_category", "product_id": 1, "category_id": 1}
+{"at": 11, "type": "product_disabled", "product_id": 2}
+{"at": 12, "type": "product_enabled", "product_id": 2}
+{"at": 13, "type": "product_removed_from_category", "product_id": 2, "category_id": 2}
